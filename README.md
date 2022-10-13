@@ -12,6 +12,10 @@ Feel free to look at our work, or even make your own changes!
 Josh
 
 
-Snek
+
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+ 
+  snek
